@@ -20,7 +20,7 @@ woman in STEM on the reverse.  Needless to say, the idea was scrapped.  I am sti
 
 ![2022-10-15 13 39 42](https://user-images.githubusercontent.com/7828884/228755280-2110090e-38ee-4ede-84e5-0ae261a95429.jpg)
 
-#Sewable LEDs and Battery PCB
+# Sewable LEDs and Battery PCB
 These were for a kit I delveloped but no longer make for wearable tech projects.  Snap out the pieces and sew the LEDs and battery pack with conductive thread to make a circuit.  Circuit works when the button is pressed.  Functional and artistic circuit. 
 
 ![2023-03-30 17 12 03](https://user-images.githubusercontent.com/7828884/228757866-3064fa75-86c8-45da-94ea-d32e91e4ed56.jpg)
