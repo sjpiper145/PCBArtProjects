@@ -20,14 +20,20 @@ woman in STEM on the reverse.  Needless to say, the idea was scrapped.  I am sti
 
 ![2022-10-15 13 39 42](https://user-images.githubusercontent.com/7828884/228755280-2110090e-38ee-4ede-84e5-0ae261a95429.jpg)
 
-# Sewable LEDs and Battery PCB
+# Sewable LEDs and Battery PCB (2019)
 These were for a kit I delveloped but no longer make for wearable tech projects.  Snap out the pieces and sew the LEDs and battery pack with conductive thread to make a circuit.  Circuit works when the button is pressed.  Functional and artistic circuit. 
 
 ![2023-03-30 17 12 03](https://user-images.githubusercontent.com/7828884/228757866-3064fa75-86c8-45da-94ea-d32e91e4ed56.jpg)
 
-# Colour Swatches ENIG, HASL and OSP
+# Colour Swatches ENIG, HASL and OSP (2019)
 I made these to get an idea of what colours were possible with combinations of PCB layers and had these made in ENIG (Gold) HASL (Silver) and OSP (bronze) finishes.  I have my old SG / Spark Girls logo on the reverse.  A great PCB art reference or giveaway. Not a functional circuit, artistic only.
 
 ![2023-03-30 17 16 17](https://user-images.githubusercontent.com/7828884/228759332-063ebc86-aedb-45c4-aa45-3a8200c8f8df.jpg)
   
+# Conductive Paint PCB (2019)
+These were for a STEM kids activity using homebrew conductive paint.  The activity worked but the lights only came on dimly when using PVA Glue / Graphite Power mix on canvas w/ 9V battery.  The middle of the board contains a coin for the participant to keep, featuring my old SG / Spark girls logo. Functional and artistic circuit.
+
+![2023-03-30 17 25 04](https://user-images.githubusercontent.com/7828884/228761020-db9574d7-34e2-4509-8118-209096b0ee64.jpg)
+
+
 
