@@ -25,3 +25,9 @@ These were for a kit I delveloped but no longer make for wearable tech projects.
 
 ![2023-03-30 17 12 03](https://user-images.githubusercontent.com/7828884/228757866-3064fa75-86c8-45da-94ea-d32e91e4ed56.jpg)
 
+# Colour Swatches ENIG, HASL and OSP
+I made these to get an idea of what colours were possible with combinations of PCB layers and had these made in ENIG (Gold) HASL (Silver) and OSP (bronze) finishes.  I have my old SG / Spark Girls logo on the reverse.  A great PCB art reference or giveaway. Not a functional circuit, artistic only.
+
+![2023-03-30 17 16 17](https://user-images.githubusercontent.com/7828884/228759332-063ebc86-aedb-45c4-aa45-3a8200c8f8df.jpg)
+  
+
